@@ -50,7 +50,7 @@
 		{
 			"id": 5,
 			"category": "2",
-			"article_cat": "1",
+			"article_cat": "2",
 			"product_title": "Mediterranean Onion",
 			"product_number": "5.49",
 			"article_number": "4913748429448170",
@@ -62,7 +62,7 @@
 		{
 			"id": 6,
 			"category": "2",
-			"article_cat": "1",
+			"article_cat": "2",
 			"product_title": "Jasione",
 			"product_number": "2.74",
 			"article_number": "67622553848198904",
@@ -74,7 +74,7 @@
 		{
 			"id": 7,
 			"category": "2",
-			"article_cat": "1",
+			"article_cat": "2",
 			"product_title": "Lyall's Mariposa Lily",
 			"product_number": "2.1.9",
 			"article_number": "5602218338619405",
@@ -86,7 +86,7 @@
 		{
 			"id": 8,
 			"category": "2",
-			"article_cat": "1",
+			"article_cat": "2",
 			"product_title": "Horizontal Woody Rockcress",
 			"product_number": "1.3",
 			"article_number": "5108754647502428",
@@ -122,7 +122,7 @@
 		{
 			"id": 11,
 			"category": "2",
-			"article_cat": "1",
+			"article_cat": "3",
 			"product_title": "California Goldenbanner",
 			"product_number": "3.42",
 			"article_number": "3582448539442724",
@@ -134,7 +134,7 @@
 		{
 			"id": 12,
 			"category": "2",
-			"article_cat": "1",
+			"article_cat": "3",
 			"product_title": "Thicket Bean",
 			"product_number": "6.6",
 			"article_number": "3546491112049529",
@@ -146,7 +146,7 @@
 		{
 			"id": 13,
 			"category": "2",
-			"article_cat": "1",
+			"article_cat": "3",
 			"product_title": "Ephemerum Moss",
 			"product_number": "0.2.2",
 			"article_number": "5602227819362914",
@@ -157,7 +157,7 @@
 		},
 		{
 			"id": 14,
-			"category": "2",
+			"category": "1",
 			"article_cat": "1",
 			"product_title": "Jaynes Canyon Buckwheat",
 			"product_number": "3.26",
@@ -169,7 +169,7 @@
 		},
 		{
 			"id": 15,
-			"category": "2",
+			"category": "1",
 			"article_cat": "1",
 			"product_title": "European Cranberrybush",
 			"product_number": "5.67",
@@ -181,7 +181,7 @@
 		},
 		{
 			"id": 16,
-			"category": "2",
+			"category": "1",
 			"article_cat": "1",
 			"product_title": "Mosquito Plant",
 			"product_number": "0.8.3",
@@ -193,7 +193,7 @@
 		},
 		{
 			"id": 17,
-			"category": "2",
+			"category": "1",
 			"article_cat": "1",
 			"product_title": "Kauai Pa'iniu",
 			"product_number": "0.4.2",
@@ -205,7 +205,7 @@
 		},
 		{
 			"id": 18,
-			"category": "2",
+			"category": "1",
 			"article_cat": "1",
 			"product_title": "Mountain Mock Vervain",
 			"product_number": "4.7",
@@ -217,7 +217,7 @@
 		},
 		{
 			"id": 19,
-			"category": "2",
+			"category": "1",
 			"article_cat": "1",
 			"product_title": "Ring Lichen",
 			"product_number": "5.35",
@@ -229,8 +229,8 @@
 		},
 		{
 			"id": 20,
-			"category": "2",
-			"article_cat": "1",
+			"category": "1",
+			"article_cat": "2",
 			"product_title": "Milla",
 			"product_number": "4.53",
 			"article_number": "3565863284079235",
@@ -241,8 +241,8 @@
 		},
 		{
 			"id": 21,
-			"category": "2",
-			"article_cat": "1",
+			"category": "1",
+			"article_cat": "2",
 			"product_title": "Orthotrichum Moss",
 			"product_number": "0.8.6",
 			"article_number": "201980638413435",
@@ -253,8 +253,8 @@
 		},
 		{
 			"id": 22,
-			"category": "2",
-			"article_cat": "1",
+			"category": "1",
+			"article_cat": "2",
 			"product_title": "Volcanic Melicope",
 			"product_number": "5.1",
 			"article_number": "560224623952951681",
@@ -265,8 +265,8 @@
 		},
 		{
 			"id": 23,
-			"category": "2",
-			"article_cat": "1",
+			"category": "1",
+			"article_cat": "2",
 			"product_title": "Munz's Iris",
 			"product_number": "0.39",
 			"article_number": "201964602218525",
@@ -277,8 +277,8 @@
 		},
 		{
 			"id": 24,
-			"category": "2",
-			"article_cat": "1",
+			"category": "1",
+			"article_cat": "2",
 			"product_title": "Low Woodland Sedge",
 			"product_number": "6.8",
 			"article_number": "3574379887375259",
@@ -289,8 +289,8 @@
 		},
 		{
 			"id": 25,
-			"category": "2",
-			"article_cat": "1",
+			"category": "1",
+			"article_cat": "2",
 			"product_title": "Wedgeleaf Eryngo",
 			"product_number": "7.0",
 			"article_number": "36666524676893",
@@ -301,8 +301,8 @@
 		},
 		{
 			"id": 26,
-			"category": "2",
-			"article_cat": "1",
+			"category": "1",
+			"article_cat": "2",
 			"product_title": "Blue Skin Lichen",
 			"product_number": "8.1",
 			"article_number": "3588017046809321",
@@ -325,7 +325,7 @@
 		},
 		{
 			"id": 28,
-			"category": "2",
+			"category": "1",
 			"article_cat": "1",
 			"product_title": "Agate Desertparsley",
 			"product_number": "1.07",
@@ -338,7 +338,7 @@
 		{
 			"id": 29,
 			"category": "2",
-			"article_cat": "1",
+			"article_cat": "2",
 			"product_title": "Slender Woolly Buckwheat",
 			"product_number": "2.39",
 			"article_number": "5010120925805411",
@@ -350,7 +350,7 @@
 		{
 			"id": 30,
 			"category": "2",
-			"article_cat": "1",
+			"article_cat": "3",
 			"product_title": "Pancratium",
 			"product_number": "1.8.5",
 			"article_number": "3532195621590297",
